@@ -56,7 +56,7 @@
 - Animator Controller
 - Animation Clip
 - BlendTree
-- PlayfabDB(microsoft azure) --> Key-Value 기반, 게임 특화 API 제
+- PlayfabDB(microsoft azure) --> Key-Value 기반, 게임 특화 API 제공
 
 ---
 
